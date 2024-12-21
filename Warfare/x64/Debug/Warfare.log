@@ -1,7 +1,16 @@
-﻿  pch.cpp
-  AssemblyInfo.cpp
-  Warfare.cpp
-  Generating Code...
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Warfare.vcxproj -> C:\CivilWar\Warfare\x64\Debug\Warfare.exe
+﻿  Warfare.cpp
+C:\CivilWar\Warfare\Warfare.cpp(40,4): warning C4551: function call missing argument list
+  (compiling source file '/Warfare.cpp')
+  
+C:\CivilWar\Warfare\Warfare.cpp(45,1): error C2059: syntax error: '}'
+  (compiling source file '/Warfare.cpp')
+  
+C:\CivilWar\Warfare\Warfare.cpp(45,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/Warfare.cpp')
+  
+C:\CivilWar\Warfare\Warfare.cpp(47,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/Warfare.cpp')
+  
+C:\CivilWar\Warfare\Warfare.cpp(47,1): error C2059: syntax error: '}'
+  (compiling source file '/Warfare.cpp')
+  

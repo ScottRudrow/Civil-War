@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CivilWar\\Warfare\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26925B4-34B5-4CC2-86E3-4C096458D4E9}|Warfare.vcxproj|C:\\CivilWar\\Warfare\\Warfare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26925B4-34B5-4CC2-86E3-4C096458D4E9}|Warfare.vcxproj|solutionrelative:Warfare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26925B4-34B5-4CC2-86E3-4C096458D4E9}|Warfare.vcxproj|C:\\CivilWar\\Warfare\\GameCode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26925B4-34B5-4CC2-86E3-4C096458D4E9}|Warfare.vcxproj|solutionrelative:GameCode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26925B4-34B5-4CC2-86E3-4C096458D4E9}|Warfare.vcxproj|C:\\CivilWar\\Warfare\\GameCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26925B4-34B5-4CC2-86E3-4C096458D4E9}|Warfare.vcxproj|solutionrelative:GameCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +22,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 69,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warfare.cpp",
+              "DocumentMoniker": "C:\\CivilWar\\Warfare\\Warfare.cpp",
+              "RelativeDocumentMoniker": "Warfare.cpp",
+              "ToolTip": "C:\\CivilWar\\Warfare\\Warfare.cpp",
+              "RelativeToolTip": "Warfare.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T06:30:32.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCode.cpp",
+              "DocumentMoniker": "C:\\CivilWar\\Warfare\\GameCode.cpp",
+              "RelativeDocumentMoniker": "GameCode.cpp",
+              "ToolTip": "C:\\CivilWar\\Warfare\\GameCode.cpp",
+              "RelativeToolTip": "GameCode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T08:08:35.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCode.h",
+              "DocumentMoniker": "C:\\CivilWar\\Warfare\\GameCode.h",
+              "RelativeDocumentMoniker": "GameCode.h",
+              "ToolTip": "C:\\CivilWar\\Warfare\\GameCode.h",
+              "RelativeToolTip": "GameCode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T08:08:59.23Z"
             }
           ]
         },
